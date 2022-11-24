@@ -6,6 +6,6 @@ Se crearon 3 API REST
 3) updateClient: Servicio que actualiza la información del cliente por el código unico
 
 URL para los servicios
-loadCliente: http://localhost:8080/interbank/clientes (GET)
-findClienteByCodigo: http://localhost:8080/interbank/clientes/123 (GET)
-updateClient: http://localhost:8080/interbank/clientes/123 (POST)
+1) loadCliente: http://localhost:8080/interbank/clientes (GET)
+2) findClienteByCodigo: http://localhost:8080/interbank/clientes/123 (GET)
+3) updateClient: http://localhost:8080/interbank/clientes/123 (POST)
